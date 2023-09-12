@@ -1,0 +1,40 @@
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP001', 'Umamill Corp.');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP002', 'EB Frozen Food');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP003', 'Muthu Frozen Food');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP004', 'East West Seafood');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP005', 'Sea Master (Malaysia)');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP006', 'Mulfro Produce Co.');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP007', 'AL Frozen Trading');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP008', 'Ocean Pacific Seafood and Meat');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP009', 'TX Seafood Enterprise');
+
+INSERT INTO Supplier (supplierID, supplierName)
+VALUES ('SP010', 'Long Seng Enterprise Sdn Bhd');
+
+INSERT INTO Supplier (supplierId, supplierName)
+VALUES ('SP011', 'ZenTea Suppliers');
+
+INSERT INTO Supplier (supplierId, supplierName)
+VALUES ('SP012', 'SakuraBeverages Co.');
+
+
+
+
+
