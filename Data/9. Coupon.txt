@@ -1,0 +1,11 @@
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP001', 0.10, 'Y', 'Hari Merdeka Promotion');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP002', 0.15, 'Y', 'Super value Promo');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP003', 0.20, 'Y', 'Malaysia Day Promo');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP004', 0.25, 'Y', 'Super Tuesday');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP005', 0.30, 'Y', 'Jimat-Jimat');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP006', 0.35, 'Y', 'Chinese New Year Promotion');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP007', 0.10, 'Y', 'Hari Raya Promotion');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP008', 0.05, 'Y', '5% Promotion');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP009', 0.20, 'Y', 'Wednesday Promotion');
+INSERT INTO Coupon (couponCode, discount, codeAvailability, description) VALUES ('CP010', 0.10, 'Y', '10% Promotion');
+
