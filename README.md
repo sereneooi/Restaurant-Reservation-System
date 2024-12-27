@@ -45,7 +45,7 @@ project-directory/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sql-scripts.git
+   git clone https://github.com/sereneooi/sql-scripts.git
    ```
 
 2. Navigate to the project directory:
