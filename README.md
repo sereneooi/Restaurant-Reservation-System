@@ -3,7 +3,7 @@
 ## Overview
 This repository contains SQL scripts for managing and analyzing reservation data. The scripts support functionality such as cancellation management, reservation availability analysis, ingredient forecasting, and generating various reports to aid in restaurant operations.
 
----
+
 
 ## Features
 1. **Cancellation Management**
@@ -18,7 +18,7 @@ This repository contains SQL scripts for managing and analyzing reservation data
 4. **Menu and Reservation Reporting**
    - Generates reports on top-rated menu items and reservation trends.
 
----
+
 
 ## Directory Structure
 ```
