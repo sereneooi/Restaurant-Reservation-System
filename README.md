@@ -45,12 +45,12 @@ project-directory/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sereneooi/sql-scripts.git
+   git clone https://github.com/sereneooi/Restaurant-Reservation-System.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd sql-scripts
+   cd Restaurant-Reservation-System
    ```
 
 3. Set up the database schema:
